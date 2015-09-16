@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">TweetSmart</string>
 
+
     <string name="hello_world">Hello world!</string>
+    <string name="compose_your_tweet">Compose your tweet...</string>
     <string name="action_settings">Settings</string>
 </resources>
